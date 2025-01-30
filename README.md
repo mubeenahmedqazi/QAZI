@@ -1,2 +1,2 @@
-# QAZI
-N/A
+# import 
+print(mubeen)
